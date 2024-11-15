@@ -1,0 +1,1 @@
+<?php /**PATH C:\laragon\www\Percobaan6\resources\views/auth/login.blade.php ENDPATH**/ ?>
